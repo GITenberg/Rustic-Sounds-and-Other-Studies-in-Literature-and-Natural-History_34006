@@ -1,0 +1,37 @@
+_repo: Rustic-Sounds-and-Other-Studies-in-Literature-and-Natural-History_34006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, Francis, Sir
+    alias: Darwin, Sir Francis
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '1807'
+    url: http://www.gutenberg.org/2009/agents/1807
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Darwin
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34006'
+  lccn: '18007394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Galton, Francis, 1822-1911'
+- !lcsh 'Austen, Jane, 1775-1817'
+- !lcsh 'Darwin, George Howard, Sir, 1845-1912'
+- !lcsh 'Hales, Stephen, 1677-1761'
+- !lcsh 'Natural history'
+tableOfContents: Rustic sounds -- Francis Galton -- The movements of plants -- A lane
+  in the Cotswalds -- Jane Austen -- The education of a man of science -- The pipe
+  and tabor -- Stephen Hales -- Nullius in verba -- Sir George Darwin -- War music
+  -- The teaching of science -- Picturesque experiments -- Dogs and dog lovers.
+title: Rustic Sounds, and Other Studies in Literature and Natural History
+url: http://www.gutenberg.org/ebooks/34006
